@@ -1,0 +1,37 @@
+Overview of Git
+Version control System
+Types of Version control System
+Architecture of Git
+Installation of Git
+Basic Git commands
+  * git init
+  * git add
+  * git commit
+  * git status
+  * git log
+  * git config
+  * git show
+======================================================================================
+Github Account creation:
+======================================================================================
+Branches
+tags
+Stash
+=====================================================================================
+Revert
+Merge & Rebase
+Cherrypick
+=======================================================================================
+Advanced Commands:
+ * git clone
+ * git pull
+ * git push
+ * git fetch
+ * git checkout
+=======================================================================================
+Remotes
+=======================================================================================
+PullRequest
+========================================================================================
+Overview of Github
+Administration of Github
