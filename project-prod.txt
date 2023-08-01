@@ -1,0 +1,9 @@
+Remotes :
+======================================================================================================================
+origin : short/alias name for github URL
+
+[root@ip-172-31-5-9 devops-automation]# git remote -v
+origin  https://github.com/trainercloud2023/devops-automation.git (fetch)
+origin  https://github.com/trainercloud2023/devops-automation.git (push)
+[root@ip-172-31-5-9 devops-automation]# 
+=======================================================
