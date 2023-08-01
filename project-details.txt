@@ -1,2 +1,18 @@
 THis is my latest project in Github
 again pushing back
+Standard Branches:
+
+1. master/main: default branch in repository and master/main always have the latest code.
+
+2. develop: develop branch contains all the ongoing development and testing code
+
+3. release: release branch contains stable code which ready to move to production or ready to launch application.
+  eg: release-1.0
+      release-flipkart-7.0
+      stable-release-1.0.1
+
+4. feature: Feature branch is used for segregating the data into sepereate branch for reusability.
+            Feature branches are created from develop branch
+  eg: login-feature
+      backend-application
+      devops-anisble-automation
